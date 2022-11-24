@@ -25,14 +25,16 @@ p {
 }
 body {
   min-height: 100vh;
-  background:yelow;
+
+  background:salmon;
+ 
   color: rgb(254, 254, 254);
 }
 nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 40px 20px;
+  padding: 30px 20px;
 }
 nav ul {
   display: flex;
