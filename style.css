@@ -25,7 +25,9 @@ p {
 }
 body {
   min-height: 100vh;
+
   background:salmon;
+ 
   color: rgb(254, 254, 254);
 }
 nav {
